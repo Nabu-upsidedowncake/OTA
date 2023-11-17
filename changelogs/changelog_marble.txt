@@ -1,2 +1,59 @@
-test
-test2
+==================
+16-11-2023
+==================
+Source Changelog:
+
+• Added OTA updater
+• Added volume key cursor control
+• Added ls charging info (voltage, watts)
+• Added option to set different ringtones for each sim
+• Added Monet customisation
+• Added smart pixels
+• Added game space
+• Added package name to app info screen
+• Added option to change gesture pill radius
+• Added option to change gesture pill length
+• Added option to disable vibration on back gesture
+• Added option to change back gesture height
+• Added option to not show back gesture
+• Added option to customize IME space above navbar
+• Added QS fling animation boost
+• Added option to disable fingerprint ripple animation effect
+• Improved pocket mode
+• Ambient display improvements
+• Idle manager improvements
+• Switched back to AOSP volume panel
+• Fixed transparent navigation bar crash
+• Fixed Statusbar padding
+• Fixed system crash while casting using spotify/google
+• Fixed google translate sign in issue
+• Fixed minor lag issues in qs panel while download animation is running
+• Fixed fingerprint Touch to unlock toggle
+• Miscellaneous improvements
+
+Device Changelog:
+
+• Added Dirac
+• Added Clear speaker
+• Added v4a (till I fix dolby)
+• Fixed thermal profiles not working
+• Fixed issue where vibrations are soft
+• Limiting Ambient display refresh rate to 60hz
+• Ambient display/AOD improvements
+• Upstreamed kernel to v5.10.200
+• Addressed sepolicy denials
+• Miscellaneous improvements
+
+==================
+17-11-2023
+==================
+
+Source Changelog:
+
+• Removed animations in settings
+• Fixed tethering to use vpn upstreams
+
+Device Changelog:
+
+• Removed 90hz refresh rate
+• Fixed display flickering
