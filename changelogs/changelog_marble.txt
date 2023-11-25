@@ -26,3 +26,7 @@ Device Changelog:
 • Fixed Power off charging animation (Offline charging)
 • Updated perf scripts from latest CLO tag
 • Miscellaneous improvements
+
+Hotfix update: (26/11/2023)
+
+• Fixed SystemUI crash with media casting
