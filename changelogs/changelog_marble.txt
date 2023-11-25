@@ -1,59 +1,28 @@
 ==================
-16-11-2023
-==================
-Source Changelog:
-
-• Added OTA updater
-• Added volume key cursor control
-• Added ls charging info (voltage, watts)
-• Added option to set different ringtones for each sim
-• Added Monet customisation
-• Added smart pixels
-• Added game space
-• Added package name to app info screen
-• Added option to change gesture pill radius
-• Added option to change gesture pill length
-• Added option to disable vibration on back gesture
-• Added option to change back gesture height
-• Added option to not show back gesture
-• Added option to customize IME space above navbar
-• Added QS fling animation boost
-• Added option to disable fingerprint ripple animation effect
-• Improved pocket mode
-• Ambient display improvements
-• Idle manager improvements
-• Switched back to AOSP volume panel
-• Fixed transparent navigation bar crash
-• Fixed Statusbar padding
-• Fixed system crash while casting using spotify/google
-• Fixed google translate sign in issue
-• Fixed minor lag issues in qs panel while download animation is running
-• Fixed fingerprint Touch to unlock toggle
-• Miscellaneous improvements
-
-Device Changelog:
-
-• Added Dirac
-• Added Clear speaker
-• Added v4a (till I fix dolby)
-• Fixed thermal profiles not working
-• Fixed issue where vibrations are soft
-• Limiting Ambient display refresh rate to 60hz
-• Ambient display/AOD improvements
-• Upstreamed kernel to v5.10.200
-• Addressed sepolicy denials
-• Miscellaneous improvements
-
-==================
-17-11-2023
+26-11-2023
 ==================
 
 Source Changelog:
 
-• Removed animations in settings
-• Fixed tethering to use vpn upstreams
+• Added faceunlock
+• Added expanded volume panel
+• Added option to show time in QS media player
+• Added Lineage Charging control
+• Added Lockscreen weather customisation
+• Added option to disable Content based refresh rate detection
+• Added option to disable notification headers
+• Added multiple rotation options
+• Fixed crash issue with Work profile/Cloned apps
+• Fixed crash with external keyboards when using volume keys
+• Removed AOSP game mode
+• Removed arcane idle manager (Kill background processes)
+• Removed multiple lockscreen media art filters (Only blur available now)
+• Switched to launcher3 
+• Selected font style will now be applied system wide in all apps
+• Lot of miscellaneous improvements
 
 Device Changelog:
 
-• Removed 90hz refresh rate
-• Fixed display flickering
+• Fixed Power off charging animation (Offline charging)
+• Updated perf scripts from latest CLO tag
+• Miscellaneous improvements

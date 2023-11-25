@@ -1,14 +1,14 @@
 {
   "response": [
     {
-      "datetime": 1700209909,
-      "size": 2425175013,
-      "filehash": "e8b9a67c5fdba4d2f6a7e457c6db2b92",
-      "filename": "AOSP-S1.2-Uri-marble-official-0835-20231117.zip",
-      "id": "aeffc748d9a7ed96ff2aa8472a152d66e2d9751b8ce72f5289307fcab2447f29",
+      "datetime": 1700935504,
+      "size": 2329545319,
+      "filehash": "6e368558d114cdf6beb3240ef47453ce",
+      "filename": "AOSP-S1.3-Uri-marble-official-1805-20231125.zip",
+      "id": "f50a446c2595d68a2f91fc758a133fdabd78c279b496bc5297e050e978eb74d2",
       "romtype": "official",
-      "version": "S1.2",
-      "url": "https://sourceforge.net/projects/android14-nabu/files/S1.2/marble/AOSP-S1.2-Uri-marble-official-0835-20231117.zip/download"
+      "version": "S1.3",
+      "url": "https://sourceforge.net/projects/android14-nabu/files/S1.3/marble/AOSP-S1.3-Uri-marble-official-1805-20231125.zip/download"
     }
   ]
 }
