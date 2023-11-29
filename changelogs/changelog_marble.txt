@@ -1,32 +1,33 @@
 ==================
-26-11-2023
+30-11-2023
 ==================
 
-Source Changelog:
+SK AOSP v1.3.1 Source changelog:
 
-• Added faceunlock
-• Added expanded volume panel
-• Added option to show time in QS media player
-• Added Lineage Charging control
-• Added Lockscreen weather customisation
-• Added option to disable Content based refresh rate detection
-• Added option to disable notification headers
-• Added multiple rotation options
-• Fixed crash issue with Work profile/Cloned apps
-• Fixed crash with external keyboards when using volume keys
-• Removed AOSP game mode
-• Removed arcane idle manager (Kill background processes)
-• Removed multiple lockscreen media art filters (Only blur available now)
-• Switched to launcher3 
-• Selected font style will now be applied system wide in all apps
-• Lot of miscellaneous improvements
+• Added back Wifi timeout feature
+• Added back Bluetooth timeout feature
+• Enabled blur behind power menu
+• Added toggle for immersive mode
+• Added option to toggle dual tone theme
+• Added Wifi panel
+• Added Mobile data panel
+• Added Global VPN feature
+• Fixed the issue where back gesture swipe doesn't work when in full screen mode
+• Fixed Google play integrity
+• Fixed an issue where USB connected notification appears even when connected to wall charger
+• Miscellaneous improvements
 
 Device Changelog:
 
-• Fixed Power off charging animation (Offline charging)
-• Updated perf scripts from latest CLO tag
+• Added Dolby Atmos
+• Added support for spatial audio
+• Fixed display green tint issue on low brightness
+• Updated perf stack from Nothing Phone (2)
+• Fixed some sepolicy denials
+• Fixed issue where dynamic refresh rate switching doesn't work when using low brightness
+• Removed DIRAC
+• Removed Viper4Android
+• Switched to One-shot auto brightness (More accurate)
 • Miscellaneous improvements
 
-Hotfix update: (26/11/2023)
-
-• Fixed SystemUI crash with media casting
+Note: Will be switching to Monthly updates as the device is stable.
