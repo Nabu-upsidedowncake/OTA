@@ -1,33 +1,42 @@
 ==================
-30-11-2023
+12-12-2023
 ==================
 
-SK AOSP v1.3.1 Source changelog:
+SK AOSP v1.4 Source changelog:
 
-• Added back Wifi timeout feature
-• Added back Bluetooth timeout feature
-• Enabled blur behind power menu
-• Added toggle for immersive mode
-• Added option to toggle dual tone theme
-• Added Wifi panel
-• Added Mobile data panel
-• Added Global VPN feature
-• Fixed the issue where back gesture swipe doesn't work when in full screen mode
-• Fixed Google play integrity
-• Fixed an issue where USB connected notification appears even when connected to wall charger
-• Miscellaneous improvements
+• Merged December Security patch (QPR1)
+• Added CLO BOOST Framework
+• Added option for QS quick pulldown
+• Added option to disable roaming indicator
+• Added option to data disabled icon
+• Added Edge long swipe action
+• Added support to Customize Power menu
+• Added option to capture partial screenshot
+• Added option to End call by pressing power button
+• Added option to wake device by clicking volume buttons
+• Added option to answer the call by pressing volume button
+• Added option to enable/disable google photos unlimited backup
+• Added option to customize QS panel transparency
+• Added LiveDisplay
+• Added option to enable vibrations with Volume slider/brightness slider adjustment
+• Fixed Ringtone custom vibration patterns
+• Improved navigation bar Hide gesture (IME space is now available with bar hidden)
+• Removed QS panel white theme, now follows pixel devices (Was causing some lag? Will re-add once i confirm)
+• Removed Lockscreen Media art blur for now
+• Removed Colored statusbar icons
+• Removed Option to disable Back gesture animation and back gesture haptics
+• Spoofing device as bootloader locked device
+• Miscellaneous Improvements
 
 Device Changelog:
 
-• Added Dolby Atmos
-• Added support for spatial audio
-• Fixed display green tint issue on low brightness
-• Updated perf stack from Nothing Phone (2)
-• Fixed some sepolicy denials
-• Fixed issue where dynamic refresh rate switching doesn't work when using low brightness
-• Removed DIRAC
-• Removed Viper4Android
-• Switched to One-shot auto brightness (More accurate)
-• Miscellaneous improvements
+• Fixed and Enabled Dolby Vision
+• Improved Dolby Atmos
+• Added support for new Bluetooth Low Energy (BLE) devices
+• Updated Perf blobs from Nothing Phone (2)
+• Fixed flickering of display when using very low brightness
+• Addressed some sepolicy denials
+• Updated to MELT 2.4.1
+• Miscellaneous Improvements
 
 Note: Will be switching to Monthly updates as the device is stable.
