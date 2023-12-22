@@ -13,8 +13,8 @@ Source Changelog:
 
 Device Changelog:
 
-• Switched to SilverCore
-• Updated Adreno  & Vulkan blobs to v615.75
-• Fixed issues with random lags in launcher
-• Improved colors while pplaying Dolby Vision Content
+• Added Dolby Atmos
+• Upstreamed kernel to 4.14.334
+• Added support for TWRP
+• Addressed some sepolicy denials
 • Miscellaneous Improvements
